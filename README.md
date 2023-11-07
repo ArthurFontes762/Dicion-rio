@@ -1,2 +1,2 @@
-# Dicion-rio
+# Dicionario
 Dicionário técnico
